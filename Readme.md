@@ -167,12 +167,11 @@ app_public_url = http://<EC2_PUBLIC_IP>:8000
 
 เปิด Web Browser และเข้าไปที่
 
-```
+
 http://<EC2_PUBLIC_IP>:8000/admin การเข้าใช้งานหน้า เจ้าหน้าที่
 http://<EC2_PUBLIC_IP>:8000/client การเข้าใช้งานหน้า พนักงานขนส่ง
 http://<EC2_PUBLIC_IP>:8000/recipient การเข้าใช้งานหน้า ผู้รับพัสดุ
 
-```
 
 ระบบจะทำการเชื่อมต่อกับฐานข้อมูล Neon PostgreSQL และสามารถใช้งานระบบ Login และฟังก์ชันต่าง ๆ ได้
 
